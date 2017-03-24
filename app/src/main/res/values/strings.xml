@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SmartLockDemo</string>
+    <string name="connect_device">连接设备</string>
+
+
+
+    <string name="connect">连接</string>
+    <string name="connected">已连接</string>
+    <string name="read_info">读取信息</string>
+    <string name="lock_core_id">锁芯id</string>
+    <string name="key_id">钥匙id</string>
+    <string name="use_record">开锁记录</string>
+    <string name="setting_info">设置</string>
+    <string name="set_lock_core">设置锁芯</string>
+    <string name="set_key">设置钥匙</string>
+    <string name="delete_key">删除钥匙</string>
+    <string name="no_device">未扫描到设备</string>
+    <string name="set_success">设置成功</string>
+    <string name="delete_success">删除成功</string>
+
+    <item name="device" type="id"/>
+</resources>
